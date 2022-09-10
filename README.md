@@ -1,1 +1,1 @@
-# docker-jenkins
+# jenkins-docker-example
